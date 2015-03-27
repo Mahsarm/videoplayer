@@ -1,0 +1,69 @@
+body{
+text-align:center;
+background-color: #E4EFF3;
+}
+
+header, section, footer, aside, nav, article, hgroup{
+    display:block;
+}
+
+#frame{
+    width:700px;
+    margin: 40px auto;
+    padding: 20px;
+    background:#4E92AB;
+    border-radius: 10px;
+    box-shadow: rgb(10,110,110) 20px 20px 20px;
+}
+
+nav{
+    margin: 5px
+}
+
+#buttons{
+    float:left;
+    width:60px;
+    height:30px;
+}
+
+#playbutton{
+    height:28px;
+    width: 49px;
+    background-color: #D7DFE2;
+    border-color: #D7DFE2;
+
+}
+
+
+#defaultbar{
+position:relative;
+float:left;
+width:600px;
+height: 18px;
+padding: 4px;
+background: #9EB0B6;
+border-radius: 5px;
+}
+
+#progressbar{
+    position:absolute;
+    width:0px;
+    height:18px;
+    background:#D7DFE2;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
